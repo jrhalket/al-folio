@@ -8,7 +8,7 @@ middle_name: R.
 last_name: Halket
 email: jhalket@mays.tamu.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Academic webpage of Jonathan Halket
+  Academic website for Jonathan Halket
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -42,11 +42,11 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: # your GitHub user name
+github_username: jrhalket
 twitter_username: # your Twitter handle
 linkedin_username: # your LinkedIn user name
-scholar_userid: # your Google Scholar ID
-orcid_id: # your ORCID ID
+scholar_userid: https://scholar.google.com/citations?user=43Dc_9gAAAAJ&hl=en
+orcid_id: https://orcid.org/0000-0002-9944-2049
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
@@ -132,8 +132,8 @@ plugins:
 
 scholar:
 
-  last_name: Halket
-  first_name: [Jonathan]
+  last_name: Jonathan
+  first_name: [Jonathan, Jonathan R.]
 
   style: apa
   locale: en
